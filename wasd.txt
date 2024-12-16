@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwerty ytrewq
+=======
+qwerty ytrewq
+>>>>>>> 025791e7061f5a66b9d2d84f8fbcbb19b810b8cc
